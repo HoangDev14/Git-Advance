@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 A Remote
 =======
 A old
+>>>>>>> branch2
+=======
+A new
 >>>>>>> branch2
