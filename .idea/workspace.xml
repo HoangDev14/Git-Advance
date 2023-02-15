@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6527fbf-6e04-449e-9d1f-04aabac09d2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/B.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/A.txt" afterDir="false" />
     </list>
@@ -50,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614304221828</updated>
-      <workItem from="1667985211268" duration="259000" />
+      <workItem from="1667985211268" duration="1397000" />
     </task>
     <task id="LOCAL-00001" summary="mhehe">
       <created>1667985279356</created>
@@ -59,7 +58,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667985279356</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mhehe11111111111">
+      <created>1667985490289</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667985490289</updated>
+    </task>
+    <task id="LOCAL-00003" summary="huhudfhua">
+      <created>1667987477149</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667987477149</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +123,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mhehe" />
-    <option name="LAST_COMMIT_MESSAGE" value="mhehe" />
+    <MESSAGE value="mhehe11111111111" />
+    <MESSAGE value="huhudfhua" />
+    <option name="LAST_COMMIT_MESSAGE" value="huhudfhua" />
   </component>
 </project>
